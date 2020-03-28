@@ -1,0 +1,28 @@
+{
+    "LocationSelection": {
+        "Next": [
+            1033,
+            681
+        ]
+    },
+    "Modifications": {
+        "Inclination": [
+            772,
+            386
+        ],
+        "Menu": [
+            397,
+            155
+        ]
+    },
+    "ResultsAndExport": {
+        "Menu": [
+            226,
+            806
+        ],
+        "Year": [
+            734,
+            652
+        ]
+    }
+}
